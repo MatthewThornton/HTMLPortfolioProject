@@ -89,6 +89,10 @@ a {
     padding: 3px;
 }
 
+.image-links{
+    border: none;
+}
+
 ul, menu, dir {
     display: block;
     list-style-type: disc;
